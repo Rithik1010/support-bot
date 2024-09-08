@@ -22,7 +22,7 @@ This project is an **AI-powered support bot** built with `Streamlit` and `OpenAI
 2. Install the required dependencies:
 
     ```bash
-    pip install streamlit openai
+    pip install -r requirements.txt
     ```
 
 3. Configure your OpenAI API key and Assistant ID in the `.streamlit/secrets.toml` file:
